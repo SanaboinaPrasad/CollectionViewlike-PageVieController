@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "a63473ac39813897b27764ccafc05a8f"
+build_time: [1541231505, 253672000]
+inputs:
+  "/Users/sriramprasad/Dev/rough/CollectionViewPaginationWithbottomControls/CollectionViewPaginationWithbottomControls/SwipeCollection.swift": [1541231504, 0]
+  "/Users/sriramprasad/Dev/rough/CollectionViewPaginationWithbottomControls/CollectionViewPaginationWithbottomControls/ViewController.swift": [1541222340, 0]
+  "/Users/sriramprasad/Dev/rough/CollectionViewPaginationWithbottomControls/CollectionViewPaginationWithbottomControls/SwipeCell.swift": [1541222990, 0]
+  "/Users/sriramprasad/Dev/rough/CollectionViewPaginationWithbottomControls/CollectionViewPaginationWithbottomControls/AppDelegate.swift": [1541221691, 0]
+  "/Users/sriramprasad/Dev/rough/CollectionViewPaginationWithbottomControls/CollectionViewPaginationWithbottomControls/Page.swift": [1541218891, 0]
